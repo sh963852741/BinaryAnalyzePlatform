@@ -1,0 +1,2 @@
+cd skakf-virtual-machine:~/DECAF/decaf/i386-softmmu$
+./qemu-system-i386 -monitor stdio -m 1024 -show-cursor -usbdevice tablet  -device rtl8139 ../../image/winxp_sp3_x86.qcow2

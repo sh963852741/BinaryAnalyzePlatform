@@ -1,0 +1,13 @@
+*.a
+*.d
+*.o
+*.lo
+*.la
+*.so
+
+
+.DS_Store
+*.mak
+*.log
+*.swp
+
